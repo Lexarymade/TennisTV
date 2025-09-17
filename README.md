@@ -15,7 +15,7 @@
 - [x] **`September 17, 2025.`** **Our paper is coming soon, stay tuned!**
 
 
-# Benchmark Overview
+## Benchmark Overview
 ![](/benchmark_overview.png)
 Our original data is derived from [F3Set](https://github.com/F3Set/F3Set)
 
