@@ -1,5 +1,22 @@
-# TennisTV: Do Multimodal Large Language Models Understand Tennis Rallies?
-![](/benchmark_overview.png)
-The paper is coming soon, stay tuned!
+<div align="center">
 
+<h1>  TennisTV: Do Multimodal Large Language Models Understand Tennis Rallies? </h1>
+
+<h5 align="center"> If you find this project useful, please give us a star🌟.
+
+<h5 align="center"> 
+
+<a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+
+</h5>
+</div>
+
+## News
+- [x] **`September 17, 2025.`** **Our paper is coming soon, stay tuned!**
+
+
+# Benchmark Overview
+![](/benchmark_overview.png)
 Our original data is derived from [F3Set](https://github.com/F3Set/F3Set)
+
+
