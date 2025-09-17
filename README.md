@@ -7,6 +7,7 @@
 <h5 align="center"> 
 
 <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+[![GitHub Repo stars](https://img.shields.io/github/stars/Lexarymade/TennisTV?style=social)](https://github.com/Lexarymade/TennisTV)
 
 </h5>
 </div>
@@ -15,8 +16,6 @@
 - [x] **`September 17, 2025.`** **Our paper is coming soon, stay tuned!**
 
 
-## Benchmark Overview
+# Benchmark Overview
 ![](/benchmark_overview.png)
 Our original data is derived from [F3Set](https://github.com/F3Set/F3Set)
-
-
