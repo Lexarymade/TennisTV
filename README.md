@@ -13,7 +13,7 @@
 </div>
 
 ## News
-- [x] **`September 17, 2025.`** **Our paper is coming soon, stay tuned!**
+- [x] **`September 21, 2025.`** **Our paper is coming soon, stay tuned!**
 
 
 # Benchmark Overview
