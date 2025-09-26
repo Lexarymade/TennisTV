@@ -6,7 +6,7 @@
 
 <h5 align="center"> 
 
-<a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+<a href='https://arxiv.org/abs/2509.15602'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 [![GitHub Repo stars](https://img.shields.io/github/stars/Lexarymade/TennisTV?style=social)](https://github.com/Lexarymade/TennisTV)
 
 </h5>
